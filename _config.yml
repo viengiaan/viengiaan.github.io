@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "An Gia Vien / Personal page"
+title                    : "Personal Page"
 title_separator          : "-"
 name                     : &name "An Gia Vien"
 description              : &description "I am a Ph.D student at Dongguk University, Seoul, Korea."
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=f_uYnPsAAAAJ"
-  email            :
+  email            : "viengiaan@mme.dongguk.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

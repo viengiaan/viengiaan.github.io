@@ -5,6 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[Single-Shot High Dynamic Range Imaging via Deep Convolutional Neural Network](http://viengiaan.github.io/publications/IABF)</b> <br> 
-<b>Vien Gia An</b> and Chul Lee.
-<i>IEEE Asia-Pacific Signal and Information Processing Association Annual Summit and Conference</i>. <b>APSIPA ASC 2017</b>.
+<b>Vien Gia An</b> and Chul Lee,"[Single-Shot High Dynamic Range Imaging via Deep Convolutional Neural Network](http://viengiaan.github.io/publications/IABF)"</b> <br> in <i> Proc. APSIPA Annual Summit and Conference (ASC)</i>, Kuala Lumpur, Malaysia, Dec. 2017, pp. 1768–1772. 

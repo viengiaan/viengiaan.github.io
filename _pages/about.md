@@ -17,5 +17,7 @@ redirect_from:
 * I recieved my Bachelor's degree in Vietnam National [University of Science](https://www.hcmus.edu.vn/), Ho Chi Minh. My undergraduate research advisor is Prof. [Pham The Bao](https://scholar.google.com/citations?user=u0aKUDQAAAAJ&hl=en).
 
 # Recent News
+* August 23rd - August 28th, 2020: Attending European Conference on Computer Vision (ECCV) - Virtual Conference.
+* June 14th - June 19, 2020: Attending IEEE Conference on Computervision and Pattern Recognition (CVPR) - Virtual Conference.
 * October 27th - November 2nd, 2019: Attending IEEE International Conference on Computer Vision (ICCV) held in Seoul, Korea.
 * September 22nd - September 25th, 2019: Attending the 26th IEEE International Conference on Image Processing (ICIP) held in Taipei, Taiwan.

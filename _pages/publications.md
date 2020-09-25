@@ -12,3 +12,5 @@ author_profile: true
 [3] <b>A. G. Vien</b>, H. Park and C. Lee, "Dual-domain Deep Convolutional Neural Networks for Image Demoireing," <i> 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</i>, Seattle, WA, USA, 2020, pp. 1934-1942.  
 
 [4] S. Yuan, ..., <b> A. G. Vien </b>, ..., "NTIRE 2020 challenge on image demoireing: Methods and results," <i> 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</i>, Seattle, WA, USA, 2020, pp. 1882-1893.
+
+### Journal Papers

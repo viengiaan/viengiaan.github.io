@@ -3,6 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+### Conference Papers
 <br>
 [1] <b>V. G. An</b> and C. Lee, "Single-shot high dynamic range imaging via deep convolutional neural network," <i> 2017 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC) </i>, Kuala Lumpur, 2017, pp. 1768-1772.  
 

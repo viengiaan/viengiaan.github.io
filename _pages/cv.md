@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Science, Ho Chi Minh, Vietnam, 2015.
+* M.S. in Computer Engineering, Pukyong National Univeristy, Seoul, Korea, 2019.
+* Ph.D in Multimedia Engineering, Dongguk University, Seoul, Korea, 2023 (expected).
+
+Research Interests
+======
+* Image restoration: image super-resolution, image inpainting, dehazing, low-light image enhancement, etc.
+* High dynamic range (HDR) imaging
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant
+  * Dongguk University, Seoul, Korea, Mar. 2019 - Sep. 2019.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching Assistant
+  * University of Science, Ho Chi Minh, Vietnam, Mar. 2016 - June. 2016.
   
 Skills
 ======
@@ -42,18 +43,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

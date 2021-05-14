@@ -17,6 +17,8 @@ redirect_from:
 * I recieved my Bachelor's degree in Vietnam National [University of Science](https://www.hcmus.edu.vn/), Ho Chi Minh. My undergraduate research advisor is Prof. [Pham The Bao](https://scholar.google.com/citations?user=u0aKUDQAAAAJ&hl=en).
 
 # Recent News
+* May. 2021 - Accepted: "Single-shot high dynamic range imaging via multiscale convolutional neural network," IEEE Access.
+* Oct. 2020 - Accepted: "Moire artifacts removal in screen-shot images via multiple domain learning," ASIPA, 2020.
 * August 23rd - August 28th, 2020: Attending European Conference on Computer Vision (ECCV) - Virtual Conference.
 * June 14th - June 19, 2020: Attending IEEE Conference on Computervision and Pattern Recognition (CVPR) - Virtual Conference.
 * October 27th - November 2nd, 2019: Attending IEEE International Conference on Computer Vision (ICCV) held in Seoul, Korea.

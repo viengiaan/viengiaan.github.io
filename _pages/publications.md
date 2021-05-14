@@ -5,7 +5,6 @@ author_profile: true
 ---
 ### Conference Papers
 <br>
-
 [1] <b>A. G. Vien</b>, H. Park and C. Lee, "Moiré artifacts removal in screen-shot images via multiple domain learning," <i>2020 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)</i>, 2020, pp. 1268-1273.
 
 [2] <b>A. G. Vien</b>, H. Park and C. Lee, "Dual-domain Deep Convolutional Neural Networks for Image Demoireing," <i> 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</i>, Seattle, WA, USA, 2020, pp. 1934-1942.  
@@ -18,5 +17,4 @@ author_profile: true
 
 ### Journal Papers
 <br>
-
 [1] <b>A. G. Vien</b> and C. Lee, "Single-shot high dynamic range imaging via multiscale convolutional neural network," IEEE Access, May. 2021.

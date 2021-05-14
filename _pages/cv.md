@@ -43,7 +43,7 @@ Activites:
 * Society Activities:
   * Student member of IEEE
 
-Reviewer for Journals:
+* Reviewer for Journals:
   * Journal of Visual Communication and Image Representation (JVCI)
 
 Publications

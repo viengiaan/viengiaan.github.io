@@ -17,7 +17,12 @@ Education
 
 Research Interests
 ======
-* Image restoration: image super-resolution, image inpainting, dehazing, low-light image enhancement, etc.
+* Image restoration
+  *  Image super-resolution
+  *  Image inpainting
+  *  Image dehazing
+  *  Low-light image enhancement
+  *  Image generation
 * High dynamic range (HDR) imaging
 
 Work experience
@@ -30,12 +35,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: C/C++, PyThon, MATLAB, R, LaTeX
+* Deep learning libraries: Caffe, PyTorch
 
 Publications
 ======

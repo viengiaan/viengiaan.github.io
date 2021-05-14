@@ -32,11 +32,19 @@ Work experience
 
 * Teaching Assistant
   * University of Science, Ho Chi Minh, Vietnam, Mar. 2016 - June. 2016.
-  
+   
 Skills
 ======
 * Programming languages: C/C++, PyThon, MATLAB, R, LaTeX
 * Deep learning libraries: Caffe, PyTorch
+
+Activites:
+======
+* Society Activities:
+  * Student member of IEEE
+
+Reviewer for Journals:
+  * Journal of Visual Communication and Image Representation (JVCI)
 
 Publications
 ======
